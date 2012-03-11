@@ -1,0 +1,13 @@
+obj\Release\AzkarAlMuslim.exe
+obj\Release\AzkarAlMuslim.pdb
+bin\Release\AzkarAlMuslim.exe
+bin\Release\AzkarAlMuslim.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\AzkarAlMuslim.FrmAddZekr.resources
+obj\Release\AzkarAlMuslim.FrmAlZekr.resources
+obj\Release\AzkarAlMuslim.FrmDisplayTimeZekr.resources
+obj\Release\AzkarAlMuslim.Properties.Resources.resources
+obj\Release\AzkarAlMuslim.csproj.GenerateResource.Cache
+obj\Release\AzkarAlMuslim.frmAbout.resources
+obj\Release\AzkarAlMuslim.FrmDisplayingZekr.resources
+obj\Release\AzkarAlMuslim.frmDownloadingAzkar.resources

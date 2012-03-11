@@ -1,0 +1,75 @@
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\bin\Debug\AzkarAlMuslim.exe
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\bin\Debug\AzkarAlMuslim.pdb
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.Properties.Resources.resources
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.csproj.GenerateResource.Cache
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.exe
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.pdb
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\bin\Release\AzkarAlMuslim.exe
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\bin\Release\AzkarAlMuslim.pdb
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\obj\Release\AzkarAlMuslim.Properties.Resources.resources
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\obj\Release\AzkarAlMuslim.csproj.GenerateResource.Cache
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\obj\Release\AzkarAlMuslim.exe
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\obj\Release\AzkarAlMuslim.pdb
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.FrmAlZekr.resources
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.FrmAddZekr.resources
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.FrmDisplayTimeZekr.resources
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\obj\Release\AzkarAlMuslim.FrmAddZekr.resources
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\obj\Release\AzkarAlMuslim.FrmAlZekr.resources
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\obj\Release\AzkarAlMuslim.FrmDisplayTimeZekr.resources
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\obj\Release\AzkarAlMuslim.FrmRemoveZekr.resources
+D:\Documents and Settings\mostafa\My Documents\Visual Studio 2005\Projects\AzkarAlMuslim\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.FrmRemoveZekr.resources
+E:\AzkarAlMuslim\AzkarAlMuslim\AzkarAlMuslim\obj\Release\AzkarAlMuslim.exe
+E:\AzkarAlMuslim\AzkarAlMuslim\AzkarAlMuslim\obj\Release\AzkarAlMuslim.pdb
+E:\AzkarAlMuslim\AzkarAlMuslim\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.exe
+E:\AzkarAlMuslim\AzkarAlMuslim\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.pdb
+E:\AzkarAlMuslim\AzkarAlMuslim\AzkarAlMuslim\bin\Debug\AzkarAlMuslim.exe
+E:\AzkarAlMuslim\AzkarAlMuslim\AzkarAlMuslim\bin\Debug\AzkarAlMuslim.pdb
+E:\AzkarAlMuslim\AzkarAlMuslim\AzkarAlMuslim\obj\Debug\ResolveAssemblyReference.cache
+E:\AzkarAlMuslim\AzkarAlMuslim\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.FrmAddZekr.resources
+E:\AzkarAlMuslim\AzkarAlMuslim\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.FrmAlZekr.resources
+E:\AzkarAlMuslim\AzkarAlMuslim\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.FrmDisplayTimeZekr.resources
+E:\AzkarAlMuslim\AzkarAlMuslim\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.Properties.Resources.resources
+E:\AzkarAlMuslim\AzkarAlMuslim\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.csproj.GenerateResource.Cache
+E:\AzkarAlMuslim\AzkarAlMuslim\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.frmDownloadingAzkar.resources
+E:\AzkarAlMuslim\AzkarAlMuslim\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.FrmDisplayingZekr.resources
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.exe
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.pdb
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\bin\Debug\AzkarAlMuslim.exe
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\bin\Debug\AzkarAlMuslim.pdb
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Debug\ResolveAssemblyReference.cache
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.frmAbout.resources
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.FrmAddZekr.resources
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.FrmAlZekr.resources
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.FrmDisplayTimeZekr.resources
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.FrmDisplayingZekr.resources
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.frmDownloadingAzkar.resources
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.Properties.Resources.resources
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Debug\AzkarAlMuslim.csproj.GenerateResource.Cache
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.exe
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.pdb
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\bin\Release\AzkarAlMuslim.exe
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\bin\Release\AzkarAlMuslim.pdb
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\ResolveAssemblyReference.cache
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.frmAbout.resources
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.FrmAddZekr.resources
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.FrmAlZekr.resources
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.FrmDisplayTimeZekr.resources
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.FrmDisplayingZekr.resources
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.frmDownloadingAzkar.resources
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.Properties.Resources.resources
+E:\AzkarAlMuslim\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.csproj.GenerateResource.Cache
+G:\AzkarAlMuslim-20090121\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.exe
+G:\AzkarAlMuslim-20090121\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.pdb
+G:\AzkarAlMuslim-20090121\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\ResolveAssemblyReference.cache
+G:\AzkarAlMuslim-20090121\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.frmAbout.resources
+G:\AzkarAlMuslim-20090121\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.FrmAddZekr.resources
+G:\AzkarAlMuslim-20090121\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.FrmAlZekr.resources
+G:\AzkarAlMuslim-20090121\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.FrmDisplayTimeZekr.resources
+G:\AzkarAlMuslim-20090121\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.FrmDisplayingZekr.resources
+G:\AzkarAlMuslim-20090121\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.frmDownloadingAzkar.resources
+G:\AzkarAlMuslim-20090121\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.Properties.Resources.resources
+G:\AzkarAlMuslim-20090121\AzkarAlMuslim-20091230\AzkarAlMuslim\obj\Release\AzkarAlMuslim.csproj.GenerateResource.Cache
+G:\AzkarAlMuslim-20090121\AzkarAlMuslim-20091230\AzkarAlMuslim\bin\Release\AzkarAlMuslim.exe
+G:\AzkarAlMuslim-20090121\AzkarAlMuslim-20091230\AzkarAlMuslim\bin\Release\AzkarAlMuslim.pdb
