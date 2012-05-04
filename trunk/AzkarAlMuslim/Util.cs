@@ -170,7 +170,7 @@ namespace AzkarAlMuslim
         public static bool isConnectionAvailable(out string _returnMessage)
         {
             //build a list of sites to ping, you can use your own
-            string[] sitesList = { "www.google.com","zaker.linkaty.net" };
+            string[] sitesList = { "www.google.com", "www.alzaker.net" };
             //create an instance of the System.Net.NetworkInformation Namespace
             Ping ping = new Ping();
             //Create an instance of the PingReply object from the same Namespace
@@ -200,12 +200,12 @@ namespace AzkarAlMuslim
                 if (notReturned == sitesList.Length)
                 {
                     _success = false;
-                    _returnMessage = "ãä İÖáß ÍÇæá Çä Êßæä ãÊÕáÇ ÈÇáÇäÊÑäÊ áßì íÊãßä ÇáÈÑäÇãÌ ãä ÊäÒíá ÇáÇĞßÇÑ ÇáÌÏíÏå ãä Úáì ÔÈßå ÇáãÚáæãÇÊ";
+                    _returnMessage = "ÚİæÇ ¡ ÚäÏ ÊÍÏíË ÇáÇĞßÇÑ ¡ íÌÈ Çä Êßæä ãÊÕáÇ ÈÇáÇäÊÑäÊ ¡ áßí íÊã ÇáÇÊÕÇá ÈãæŞÚ ÇáĞÇßÑ æÊäÒíá ÇÎÑ ÇáÇĞßÇÑ ÇáãÖÇİÉ";
                    return _success;
                 }
                 else
                 {
-                    _returnMessage = "Êã ÇáÇÊÕÇá ÈÔÈßå ÇáãÚáæãÇÊ ÈäÌÇÍ ÍíË íãßäß ãä ÊäÒíá ÇáÇĞßÇÑ ÇáÌÏíÏå íæãíÇ ãä Úáì ÇáÔÈßå ÇáÚäßÈæÊíå";
+                    _returnMessage = "Êã ÇáÇÊÕÇá ÈÇáÇäÊÑäÊ ÈäÌÇÍ ÇáÇä íãßäß ÊÍÏíË ÇáÇĞßÇÑ æÇÖÇİÉ ÇĞßÇÑ ÌÏíÏå íæãíÇ ãä Úáì ãæŞÚ ÇáĞÇßÑ ÇáÇÓáÇãí";
                     _success = true;
                 }
             }

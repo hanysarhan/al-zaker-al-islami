@@ -43,7 +43,7 @@ namespace AzkarAlMuslim
             }
             catch (Exception ex)
             {
-
+                MessageBox.Show("⁄›Ê« ° ÕœÀ Œÿ√ œ«Œ·Ì ›Ì «·»—‰«„Ã ° „‰ ›÷·ﬂ Õ«Ê· „—Â «Œ—Ì");
                 Util.write_to_log(ex.Message +"\n Acion: updating Displaying Time");
             }
         }

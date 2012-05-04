@@ -40,6 +40,7 @@ namespace AzkarAlMuslim
             this.toolStripRemoveZekr = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripExit = new System.Windows.Forms.ToolStripMenuItem();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.label1 = new System.Windows.Forms.Label();
             this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -53,6 +54,7 @@ namespace AzkarAlMuslim
             // contextMenuStrip1
             // 
             this.contextMenuStrip1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.contextMenuStrip1.DropShadowEnabled = false;
             this.contextMenuStrip1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripStartDisplaying,
@@ -66,7 +68,7 @@ namespace AzkarAlMuslim
             this.contextMenuStrip1.RenderMode = System.Windows.Forms.ToolStripRenderMode.Professional;
             this.contextMenuStrip1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.contextMenuStrip1.ShowImageMargin = false;
-            this.contextMenuStrip1.Size = new System.Drawing.Size(230, 172);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(230, 194);
             // 
             // toolStripStartDisplaying
             // 
@@ -129,22 +131,36 @@ namespace AzkarAlMuslim
             this.timer1.Interval = 1000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(123, 42);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(149, 13);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "»—‰«„Ã «·–«ﬂ— °   ° Ã«—Ì «· Õ„Ì·";
+            // 
             // FrmAlZekr
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(373, 97);
+            this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
             this.Name = "FrmAlZekr";
-            this.Opacity = 0.1;
+            this.Opacity = 0.01D;
             this.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.RightToLeftLayout = true;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "«·‘«‘Â «·—∆Ì”ÌÂ";
-            this.Load += new System.EventHandler(this.FrmAlZekr_Load);
+            this.Text = "«·–«ﬂ— - ·«  ‰”Ì –ﬂ— «··Â";
+            this.WindowState = System.Windows.Forms.FormWindowState.Minimized;
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.FrmAlZekr_FormClosed);
+            this.Load += new System.EventHandler(this.FrmAlZekr_Load);
             this.contextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -160,6 +176,7 @@ namespace AzkarAlMuslim
         private System.Windows.Forms.ToolStripMenuItem toolStripRemoveZekr;
         private System.Windows.Forms.ToolStripMenuItem ToolStripUpdateAzkar;
         private System.Windows.Forms.ToolStripMenuItem ToolStripAddOnlineAzkar;
+        private System.Windows.Forms.Label label1;
     }
 }
 

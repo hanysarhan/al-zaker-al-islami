@@ -38,9 +38,9 @@ namespace AzkarAlMuslim
             this.label1 = new System.Windows.Forms.Label();
             this._cbSelectAll = new System.Windows.Forms.CheckBox();
             this.lstViewAllAzkar = new System.Windows.Forms.ListView();
-            this.ColumnHeader1 = new System.Windows.Forms.ColumnHeader();
-            this.columnHeader2 = new System.Windows.Forms.ColumnHeader();
-            this.columnHeader3 = new System.Windows.Forms.ColumnHeader();
+            this.ColumnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader3 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.listBox2 = new System.Windows.Forms.ListBox();
             this._btnDelete = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
@@ -111,7 +111,7 @@ namespace AzkarAlMuslim
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Arabic Transparent", 12F, System.Drawing.FontStyle.Bold);
+            this.label2.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold);
             this.label2.Location = new System.Drawing.Point(54, 11);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(27, 19);
@@ -121,7 +121,7 @@ namespace AzkarAlMuslim
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Arabic Transparent", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.label1.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.label1.Location = new System.Drawing.Point(122, 11);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(31, 19);

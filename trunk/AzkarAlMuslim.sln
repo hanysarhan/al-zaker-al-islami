@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzkarAlMuslim", "AzkarAlMuslim\AzkarAlMuslim.csproj", "{1AB61E7D-650A-4BB4-9337-8F6671DE53F8}"
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupAzkarAlMuslim", "SetupAzkarAlMuslim\SetupAzkarAlMuslim.vdproj", "{665D7B12-BCCD-4C86-8C2D-13B94DED0B15}"

@@ -98,7 +98,7 @@ namespace AzkarAlMuslim
             // 
             // btnCancel
             // 
-            this.btnCancel.Font = new System.Drawing.Font("Arabic Transparent", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.btnCancel.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.btnCancel.Location = new System.Drawing.Point(78, 150);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(101, 27);
@@ -109,7 +109,7 @@ namespace AzkarAlMuslim
             // 
             // btnApply
             // 
-            this.btnApply.Font = new System.Drawing.Font("Arabic Transparent", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.btnApply.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.btnApply.Location = new System.Drawing.Point(224, 150);
             this.btnApply.Name = "btnApply";
             this.btnApply.Size = new System.Drawing.Size(101, 27);
@@ -173,7 +173,7 @@ namespace AzkarAlMuslim
             this.groupBox2.Controls.Add(this.btnCancel);
             this.groupBox2.Controls.Add(this.groupBox1);
             this.groupBox2.Controls.Add(this.btnApply);
-            this.groupBox2.Font = new System.Drawing.Font("Arabic Transparent", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.groupBox2.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.groupBox2.Location = new System.Drawing.Point(14, 5);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(416, 189);

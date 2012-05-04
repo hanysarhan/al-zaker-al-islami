@@ -72,7 +72,8 @@ namespace AzkarAlMuslim
             this.cmbAzkarTypes.Items.AddRange(new object[] {
             "–ﬂ—",
             "ÕœÌÀ",
-            "√ÌÂ ﬁ—√‰ÌÂ"});
+            "√ÌÂ ﬁ—√‰ÌÂ",
+            "·ÿ«∆›"});
             this.cmbAzkarTypes.Location = new System.Drawing.Point(152, 22);
             this.cmbAzkarTypes.Name = "cmbAzkarTypes";
             this.cmbAzkarTypes.Size = new System.Drawing.Size(200, 26);

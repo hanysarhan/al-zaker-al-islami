@@ -17,7 +17,7 @@ namespace AzkarAlMuslim
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("iexplore.exe", "http://zaker.linkaty.net");
+            System.Diagnostics.Process.Start("iexplore.exe", "http://www.alzaker.net");
             this.Close();
             this.Dispose();
         }
@@ -26,5 +26,6 @@ namespace AzkarAlMuslim
         {
             System.GC.Collect();
         }
+
     }
 }

@@ -161,7 +161,9 @@ namespace AzkarAlMuslim
         private string getOnlineZekr()
         {
             string result = null;
-            string url = "http://zaker.linkaty.net/rss.aspx";
+            /*string url = "h ttp://zaker.linkaty.net/rss.aspx";*/
+            /*string url = "h ttp://api.alzaker.net/site/azkar";*/
+            string url = "http://www.alzaker.net/updateAzkar.php";
             WebResponse response = null;
             StreamReader reader = null;
 
@@ -189,6 +191,7 @@ namespace AzkarAlMuslim
             }
             return result;
         }
+
         private void SetupInitialValues()
         {
          
@@ -344,5 +347,6 @@ namespace AzkarAlMuslim
         {
             System.GC.Collect();
         }
+
     }
 }

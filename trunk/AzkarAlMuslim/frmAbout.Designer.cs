@@ -49,13 +49,14 @@ namespace AzkarAlMuslim
             // 
             // label1
             // 
-            this.label1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Traditional Arabic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.MidnightBlue;
             this.label1.Location = new System.Drawing.Point(5, 12);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(416, 176);
             this.label1.TabIndex = 1;
             this.label1.Text = resources.GetString("label1.Text");
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // groupBox1
             // 
