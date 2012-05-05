@@ -212,11 +212,21 @@ namespace AzkarAlMuslim
            // XmlNodeList xmlNode = XmlDoc.GetElementsByTagName("Azkar");
             // check if we reached to end of xml file -- 
             // if yes reset flag _start=0; to start from begining
-            if (_allAzkarItems[0].ChildNodes.Count == _start)
-                _start = 0;
-            notifyIcon1.ShowBalloonTip(Util.timeToDisplayBallon, _allAzkarItems[0].ChildNodes[_start].Attributes["title"].Value, _allAzkarItems[0].ChildNodes[_start].Attributes["content"].Value, System.Windows.Forms.ToolTipIcon.Info);
-             
-                 _start++;
+            int azkarCount = _allAzkarItems[0].ChildNodes.Count;
+            Random random = new Random();
+            int randomNumber = random.Next(0, azkarCount);
+
+            //if (_allAzkarItems[0].ChildNodes.Count == _start)
+            //    _start = 0;
+
+            notifyIcon1.ShowBalloonTip(
+                Util.timeToDisplayBallon,
+                _allAzkarItems[0].ChildNodes[randomNumber].Attributes["title"].Value,
+                _allAzkarItems[0].ChildNodes[randomNumber].Attributes["content"].Value, 
+                System.Windows.Forms.ToolTipIcon.Info
+                );
+
+             //    _start++;
         }
        
 
