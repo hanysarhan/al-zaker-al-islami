@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.0" name="AzkarAlMuslim.exe" publicKeyToken="1cac1a5ae3913d83" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="favicon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="AzkarAlMuslim" version="1.0.1.1" language="neutral" processorArchitecture="msil" />
+    <commandLine file="AzkarAlMuslim.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" ID="Custom" SameSite="site" Unrestricted="true" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AzkarAlMuslim.exe" size="311808">
+      <assemblyIdentity name="AzkarAlMuslim" version="1.0.1.1" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>p+8iPrcepDgNjgRs3SHMMohx9Qs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Azkar.xml" size="21182" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>G1N/IX5mJwmsAfuDUFs+1BXQnww=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="AzkarAlMuslim.exe.config" size="77">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>w7WNgu5MxCvL4DAgISBxgwmhDzU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="favicon.ico" size="33386">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Yz9FKwBUIJjLAZnquclM74BOd78=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=Hany-PC\Development" issuerKeyHash="228e5f78ecfe7f285caf6436300034ba60b5b091" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>y3UmJW/GfwSviXVl8VR0k/crWEE=</DigestValue></Reference></SignedInfo><SignatureValue>aPf4Yo7s8+MDoD1m/cgFaoIm9ygaNicfbxERBFr5dc7wsrjIV1SGNbJoF8S4HMTVctDhjvbhPdg+/j1LHHN8pmj9jGF/jNK82U96N/Eniha0eXoJ9d0k/LrRbizkU92SDemNUeM8AhshHff+yvZiJiZAD7dHIPvXt0WwpV1ls1A=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>sYdS0GGkldliawImJCZiqWY+vVakOT/4zcJBq1yqhN9hP8OeGmjMD2zq0pF3RPASvRIB5GFw3PV2wkd/6YAEYSNBbIAfwPBTjkC5j7gcwVx/RiLriJL11nC1tWJ2bZ5IBoA6+dilGOxwAaiXXN1hcqp3ad+NWs2YLd99rMIfCZk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="41582bf7937454f1657589af047fc66f252675cb" Description="" Url=""><as:assemblyIdentity version="1.0.0.0" name="AzkarAlMuslim.exe" publicKeyToken="1cac1a5ae3913d83" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Hany-PC\Development</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>dxtYKaw4RZ2FvaV1BFiBD8hCYHc=</DigestValue></Reference></SignedInfo><SignatureValue>TDaXfhhiqwHl4SiVVKZY2rOWpoY6BgbCy4e+l8dTdVfReonnJvvl9c83Gmi9OG39k8n4JuNw6DIAdQp9mtrB7jAzgBzYFb9JkBh2H49/ynK4jQzii9LY1H1PcINX6Anfq80dQuDa8Sc5NTtFxb8o10t9T9IpDeAiJRDAqHsBgn8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>sYdS0GGkldliawImJCZiqWY+vVakOT/4zcJBq1yqhN9hP8OeGmjMD2zq0pF3RPASvRIB5GFw3PV2wkd/6YAEYSNBbIAfwPBTjkC5j7gcwVx/RiLriJL11nC1tWJ2bZ5IBoA6+dilGOxwAaiXXN1hcqp3ad+NWs2YLd99rMIfCZk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAU6gAwIBAgIQLtA+tzJpQaBP/qfMxOQDmTANBgkqhkiG9w0BAQUFADAxMS8wLQYDVQQDHiYASABhAG4AeQAtAFAAQwBcAEQAZQB2AGUAbABvAHAAbQBlAG4AdDAeFw0xMjA1MDQwOTQ1MTlaFw0xMzA1MDQxNTQ1MTlaMDExLzAtBgNVBAMeJgBIAGEAbgB5AC0AUABDAFwARABlAHYAZQBsAG8AcABtAGUAbgB0MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCxh1LQYaSV2WJrAiYkJmKpZj69VqQ5P/jNwkGrXKqE32E/w54aaMwPbOrSkXdE8BK9EgHkYXDc9XbCR3/pgARhI0FsgB/A8FOOQLmPuBzBXH9GIuuIkvXWcLW1YnZtnkgGgDr52KUY7HABqJdc3WFyqndp341azZgt332swh8JmQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBADhKSuF0oJed3hlUI2N+C/CiayKCU4dkzQhrf1afX5BlYHkBUCDNzeq2N11YVMRDfC/p5lScySXk/IcgH60Xe+F0Pot7mMv2mPRuF38kT3pvUsZoSa6h4b4/OUj7pNCiw8pjytHsH9/nY3RAsVFaEz3r6WEiVCeXez4tKsiCCrg0</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
