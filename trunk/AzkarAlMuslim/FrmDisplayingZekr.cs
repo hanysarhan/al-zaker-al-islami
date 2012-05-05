@@ -35,7 +35,7 @@ namespace AzkarAlMuslim
             {
                 try
                 {
-                    DateTime _zekrDate;
+                    //DateTime _zekrDate;
                     _alZekr = new ListViewItem(i.ToString());
                     _title = _allAzkar.ChildNodes[i].Attributes["title"].Value;
                     _alZekr.SubItems.Add(new ListViewItem.ListViewSubItem(_alZekr, _title, Color.DarkSlateGray, Color.DarkSalmon, new Font("arial", 10)));

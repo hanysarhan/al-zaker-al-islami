@@ -25,6 +25,7 @@ namespace AzkarAlMuslim
             catch (Exception ex)
             {
               //  MessageBox.Show(ex.Message);
+                Util.write_to_log(ex.Message + "\n Action : can't read the xml file");
             }
             finally
             {

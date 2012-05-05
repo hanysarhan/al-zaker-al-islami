@@ -12,3 +12,9 @@ E:\web\www\alzaker\apps\dotnet\AzkarAlMuslim\obj\Release\AzkarAlMuslim.frmDownlo
 E:\web\www\alzaker\apps\dotnet\AzkarAlMuslim\obj\Release\AzkarAlMuslim.Properties.Resources.resources
 E:\web\www\alzaker\apps\dotnet\AzkarAlMuslim\obj\Release\ResGen.read.1.tlog
 E:\web\www\alzaker\apps\dotnet\AzkarAlMuslim\obj\Release\ResGen.write.1.tlog
+E:\web\www\alzaker\apps\dotnet\AzkarAlMuslim\bin\Release\AzkarAlMuslim.exe.config
+E:\web\www\alzaker\apps\dotnet\AzkarAlMuslim\bin\Release\AzkarAlMuslim.exe.manifest
+E:\web\www\alzaker\apps\dotnet\AzkarAlMuslim\bin\Release\AzkarAlMuslim.application
+E:\web\www\alzaker\apps\dotnet\AzkarAlMuslim\obj\Release\AzkarAlMuslim.TrustInfo.xml
+E:\web\www\alzaker\apps\dotnet\AzkarAlMuslim\obj\Release\AzkarAlMuslim.exe.manifest
+E:\web\www\alzaker\apps\dotnet\AzkarAlMuslim\obj\Release\AzkarAlMuslim.application

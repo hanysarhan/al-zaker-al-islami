@@ -214,6 +214,7 @@ namespace AzkarAlMuslim
             {
                 _success = false;
                 _returnMessage ="·„ Ì „ «·« ’«· »«·«‰ —‰  ‰ ÌÃÂ ·ÕœÊÀ „‘ﬂ·Â „‰ ›÷·ﬂ  √ﬂœ „‰ « ’«·ﬂ »«·«‰ —‰ ";
+                Util.write_to_log(ex.Message + "\n Action : no internet access");
             }
             return _success;
         }

@@ -48,7 +48,7 @@ namespace AzkarAlMuslim
             // 
             this.notifyIcon1.ContextMenuStrip = this.contextMenuStrip1;
             this.notifyIcon1.Icon = ((System.Drawing.Icon)(resources.GetObject("notifyIcon1.Icon")));
-            this.notifyIcon1.Text = "√–ﬂ«— «·„”·„";
+            this.notifyIcon1.Text = "«·–«ﬂ—";
             this.notifyIcon1.Visible = true;
             // 
             // contextMenuStrip1
@@ -68,7 +68,7 @@ namespace AzkarAlMuslim
             this.contextMenuStrip1.RenderMode = System.Windows.Forms.ToolStripRenderMode.Professional;
             this.contextMenuStrip1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.contextMenuStrip1.ShowImageMargin = false;
-            this.contextMenuStrip1.Size = new System.Drawing.Size(230, 194);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(230, 172);
             // 
             // toolStripStartDisplaying
             // 
